@@ -1,3 +1,30 @@
+# What is wine?
+
+Wine is the beverage produced by the alcoholic fermentation of fresh grapes or fresh grape juice (must). The origin of the vine dates back to around 6000 B.C. in the region of Mesopotamia. Initially, wine was mainly used for ceremonies and sacred rituals as offerings to the gods. This cultivation spread throughout the Mediterranean, reaching Greece, Italy, Spain, and France—countries that, due to their climate, soil, and history, have expanded the production and culture of wine across all continents. The production and consumption of wine extend worldwide. The great variety of climates, soils, the enormous number of grapevine varieties, the viticulturists and oenologists themselves, and the different techniques of winemaking, aging, and conservation have led to a great diversity of wines.
+
+## The vine
+
+The vine is a shrub made up of:
+
+- Root: supplies nutrients to the vine.
+- Trunk: stores reserve substances, supports the arms and shoots of the vine, and conducts water and sap.
+- Arms: responsible for conducting nutrients and distributing the vegetation and fruits in space.
+- Shoots (when green) or canes (when dry): send nutrients to leaves and fruit.
+- Leaves: the most important organs of the vine, as they are responsible for transforming raw sap into elaborated sap and carrying out the plant's vital.- functions: transpiration, respiration, and photosynthesis.
+
+Bunches:
+clusters of grapes connected by stems to a stalk hanging from the cane.
+
+The fruit
+Grapes are the fruit expression of the vine. The bunch is divided into the following components:
+
+- Peduncle: the connection between the shoot and the bunch.
+- Rachis: the woody part of the bunch. It is usually removed as it adds acidity, roughness, and green aromas to the wine.
+- Berry or grape: composed of three parts:
+- Skin: contains the compounds that give color and texture to the wines, as well as most of the aromas.
+- Pulp: contains the must, mostly water with sugars. It does not contribute color to the wines.
+- Seeds: found inside the pulp. They provide tannins and oils that can deteriorate flavors and aromas.
+
 # Wine Tasting Guide
 
 ## Step #1: Visual Appearance
