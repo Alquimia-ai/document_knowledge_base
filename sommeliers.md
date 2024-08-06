@@ -217,3 +217,65 @@ After you have smelled and tasted the wine, swallow it and observe what happens 
 - Start with wines from classical appellations, not exotics. (See a good textbook.)
 - Occasionally buy wines at higher prices—these are the best representatives.
 - If that's not in your budget, skip a few value bottles to save for better ones.
+
+
+## Pairing by Agreement
+Pairing by agreement occurs when the wine and the dish resemble each other or have the same characteristics. This is called understanding by similarity. Classic examples include: grilled steak with Malbec; salmon with Pinot Noir; seafood salad with unoaked Chardonnay; pork tenderloin with Merlot. Also included in this list are lentil stew with Bonarda (aged in barrels) and stuffed pasta with red sauce with Cabernet Franc.
+
+## Pairing by Contraposition
+In this case, the characteristics of the wine and the food are completely opposite. Here, they complement each other through differentiation. Emblematic cases are: blue cheese with sweet wine; Salteñas empanadas with Torrontés; Asian cuisine with Torrontés; spicy dishes with light white wines.
+
+## Wines and Red Meats
+- **Fatty meats**: Pair wonderfully with intense red varieties aged in barrels. Malbec, Cabernet Sauvignon, Cabernet Franc, Bonarda, Petit Verdot, and Tannat.
+- **Lean meats**: Prefer reds with slight barrel aging and varieties with medium or low tannins. Pinot Noir, Merlot, Tempranillo (Argentina), and Sangiovese.
+
+## Wines and Fish
+- **Fatty fish**: Pair well with whites aged in barrels (Chardonnay, Viognier, Semillon) or light reds (Pinot Noir, Merlot).
+- **Lean fish**: Combine nicely with light, fresh, fruity white wines (Sauvignon Blanc, Torrontés, Tocai Friulano).
+
+## Wines and White Meats
+- **Chicken and pork**: Pair excellently with light red wines or those with slight barrel aging (Pinot Noir is a versatile choice). Young Malbecs or modern Cabernet Sauvignons also work well. They also pair with unoaked Merlot or young Cabernet Franc. Among whites, the ideal varieties are Chardonnay (lightly oaked), Viognier, or Semillon.
+
+## Rosé Wines
+What about rosé wine? It stands out for its versatility. Despite being underrated by local palates, demand is starting to grow, especially for wines made in the Provence style (very delicate, almost imperceptible color).
+
+Rosé labels are great options to pair with:
+- Appetizers
+- Chicken and pork
+- Certain red meats (flank steak, eye of round, sirloin tip, tenderloin)
+- Shrimp, seafood, shellfish salads
+- Both lean and fatty fish
+
+## Wine and Spicy Foods
+Why doesn’t "spicy" pair with "spicy"? Because it creates an opposite, negative effect. Unpleasant metallic or distorted flavors may appear.
+
+Spice plus spice equals "fire" for the palate. Too much intensity, too much heat. Therefore, it’s important to tone down that spicy sensation with a white wine that is agile, fresh, light, and not very voluminous. Examples of varieties include: Torrontés, Sauvignon Blanc, Tocai or unoaked Viognier.
+
+## Wine and Sweet Foods
+Ideally, sweet pairs with sweet. Cakes, desserts, fruits, and sweet dishes pair perfectly with demi-sec or sweet sparkling wines and late harvest or natural sweet wines.
+
+Imagine, dear reader, how a grilled steak would pair with a sweet wine. It wouldn’t match at all!
+
+## Wines and Salty Foods
+In general, any food with a high saline component is complex to pair. In this case, we need wines with mineral notes. Pinot Noir and Sauvignon Blanc are very good options to complement these dishes.
+
+## Impossible Pairings?
+Yes, there are impossible pairings. This happens between red wines with marked, intense, and present tannins and seafood or salty dishes. Examples (to avoid): oysters and Cabernet Sauvignon, sushi and Syrah, sole and Petit Verdot.
+
+## Wines and Cheeses
+In this classic pairing, which stirs much passion among curious gourmets, the raw materials used to make the cheeses (cow, goat, sheep, buffalo, mixes) and the production method (lactic coagulation, unpressed paste, washed rind, internal mold, and aging) are influential.
+
+#### Wines and Fresh Cheeses:
+Almost none of these cheeses are eaten alone because their flavor is very neutral and mild (insipid). With mozzarella as the standard, they should be present in other foods with similarly mild flavors to avoid being overshadowed. Recommendation: very young and fresh white wines with herbaceous and floral notes pair very well, as do Brut or Demi Sec sparkling wines.
+
+#### Wines and Medium-aged Cheeses:
+Classic examples are Gouda and Emmental. In this case, we need dry white wines with good volume and barrel fermentation, and all those with a high glyceric content (unctuous Chardonnay or Semillon).
+
+#### Cured and Aged Wines:
+Historical examples are Manchego, Parmesan, Provolone, and Reggianito (depending on the degree of aging). We will need young red wines to full-bodied and evolved ones.
+
+#### Mold-ripened Cheeses:
+Brie and Camembert are the elixirs of this peculiar style. They can be accompanied by structured white wines with some acidity and very aromatic, or young, light, and fresh red wines (Pinot Noir).
+
+#### Blue Cheeses:
+Roquefort, Gorgonzola, Stilton, or Cabrales are ideal for pairing with late harvest, natural sweet, or fortified wines.
