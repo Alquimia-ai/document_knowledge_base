@@ -2,7 +2,7 @@
 ## Choosing Your Best Wine
 ### Course Guidebook
 
----
+
 # Paul Wagner, Wine Author and Lecturer
 
 Paul Wagner is a Viticulture & Winery Technology Instructor at Napa Valley College. He is also a guest lecturer at many universities, including the University of Rovira i Virgili, the University of Bordeaux, and the University of Porto. He has judged more than 100 international wine competitions and has spoken at more than 80 conferences throughout the world on wine, wine tourism, wine education, public affairs, and wine marketing.
@@ -14,7 +14,7 @@ Fame; and member of the Wine Marketing & Tourism Conference advisory board. He w
 
 Mr. Wagner is the founder and president emeritus of Balzac Communications & Marketing. His clients there included the Union des Grands Crus de Bordeaux; Caymus Vineyards; Seagram Chateau & Estate Wines Company; Consorzio Vino Chianti Classico; FurmintUSA; La Rioja Alta, S.A.; Constellation Brands; Sogevinus; Bodegas Salentein; Villa Trasqua; Consorzio del Vino Nobile di Montepulciano; Regione Siciliana; and a host of other wine, food, and regional tourism clients.
 
----
+
 # Course Scope
 
 With nearly 150,000 wines for sale in the US market, the world of wine can seem needlessly complex. However, in just a few short lessons, this course gives you an easy-to-understand foundation for choosing the kinds of wines you’re most likely to enjoy.
@@ -27,7 +27,7 @@ While 90 percent of the world’s wines fall into the categories of red and whit
 
 The penultimate lesson explains each step of formal wine service in a restaurant and gives tips on navigating it. Finally, the concluding lesson leads you through the ways that you can find the wines that are best for you and your guests to enjoy.
 
----
+
 # How to Explore Your Glass of Wine
 
 People have five physical senses, and four of them come into play when tasting wine. Each of those four senses—sight, smell, touch, and taste—can be used to learn a little more about the wine in a glass. This lesson looks at how. To proceed through the lesson, you may want to pour a third of a glass of wine. (Filling it a third of the way leaves the rest of the glass to capture the aromas of the wine.)
@@ -82,7 +82,7 @@ Sugar in wine can mask both acidity and the bitterness from tannin. Good winemak
 - Some wines seem to disappear from your mouth the moment they’re swallowed. These wines have a short finish. These can be excellent when paired with certain foods that have flavors that can linger.
 - Other wines have finishes that seem to go on and on. Sweet wines do this because of the sugar, but so do big, rich wines like Zinfandel. The finish can provide more flavors and notes for quite a while after you’ve swallowed the wine. 
 
----
+
 # Key Elements in Wine and How to Taste Them
 
 When sommeliers talk about wine, they focus on a few key elements that define wine style and character. This lesson looks at how you can identify and understand those elements, and how the elements somewhat determine the price of a wine. 
@@ -112,7 +112,6 @@ When sommeliers talk about wine, they focus on a few key elements that define wi
 - This does not mean that expensive wines are overrated. It does mean that if you have to please a lot of people all at the same time, it is probably safer to go with a wine that is made with that goal in mind, rather than choosing a wine that is aimed at a select few who will really appreciate it.
 - In the United States, wines that sell for under $10 usually have a small amount of sugar in them. The trace amount of sugar tends to make the wines taste a little fullerbodied and also fruitier. Most expensive wines often avoid this technique, but the sugar can make a wine stand out in a good way.
 
----
 # Choosing White Wines 
 
 This lesson provides an overview of the main types of white wines. In white wines, there are two basic categories: the aromatic white wines and the whites that are not so aromatic. The term aromatic simply means that when you lift the glass to your nose, you usually don’t have to swirl or sniff very much; the aromas come right out of the glass and let you know they’re there.
@@ -153,7 +152,7 @@ While a wine might smell wonderfully flowery and fruity, that doesn’t necessar
 - You can do the same thing with red grapes. When you crush red grapes and leave the white juice in contact with the red skins for only a few minutes or hours, the result is pink wine, also called rosé. Essentially, rosé is white wine made from red grapes with white wine techniques. 
 - There is a huge variation in rosé wines. Some are light and fresh and go perfectly with salad or an afternoon by the pool. Others are big and rich and compete with Chardonnay or lighter red wines in terms of style and food pairings
 
----
+
 # Choosing Red Wines
 
 This lesson takes a look at red wines and their traits. It starts with Pinot Noir and Cabernet and then explores the delights of Merlot and Zinfandel, Rhône wines like Syrah and Grenache, and Italian reds from Sangiovese to Nebbiolo.
@@ -188,7 +187,7 @@ According to some estimates, thousands of different types of grape grow in Italy
 - Syrah is a relatively recent grape. In France, it is best known for Hermitage. In Australia, it makes Grange, one of the greatest wines in that country. Syrah is easy to grow, and it makes luscious red wine. The color is a deep red. The aroma is full of red berries and spice. It’s medium bodied and full flavored, and the note of spice makes it perfect for a barbecue wine or a rich stew. 
 - Meanwhile, Zinfandel came from Croatia originally, but it became famous in California. Zinfandel seems ideally suited for California: It loves the climate. Zinfandels won’t have the tannins of Cabernet, but they will have big, powerful flavors. If you are serving a delicate veal dish, Zinfandel may not be your wine of choice. But with a big steak, many winemakers in California recommend that Zinfandel is absolutely the way to go. It also goes well with chocolate.
 
----
+
 # Choosing Sparkling and Dessert Wines
 
 This lesson is about wines that fall outside the classic categories of red, white, and pink. The lesson spends some time on sparkling wine, and it also discusses wines that are often better served at the end of the meal: Ports, Sherries, and Madeiras. 
@@ -230,7 +229,7 @@ All you have to do is chill it. Finos and Manzanillas should be almost ice cold.
 - The winemakers watch the yeast very slowly work on the juice until they decide it’s time. They then filter out the yeast, and the result is a lovely and intensely fruity wine that captures the essence of the grapes. The alcohol level on these wines is usually low.
 - Depending on the grapes, these wines can have wonderful aromas of ripe apricot, peach, and pear. Because the grapes are so concentrated, the acidity can be livelier, so the wines can also be beautifully balanced. 
 
----
+
 # The History of Wine: From Babylon to James Bond
 
 Wine holds a special place in the world. From the beginnings of history, wine has been the beverage of celebration, culture, religion, and ritual. This lesson looks at wine’s role in both culture and history. 
@@ -266,7 +265,7 @@ Wine holds a special place in the world. From the beginnings of history, wine ha
 - In Burgundy, where the families had passed down their vineyards for centuries, they now had to break vineyards up into smaller and smaller parcels. Today, some of the parcels are only a few rows of vines or even a half-row of vines. That is one of the reasons there are so many small producers in Burgundy.
 - In Bordeaux, instead of family inheritances, they created legal corporations to keep the estates intact. That is how some of the properties in Bordeaux have stayed the same for hundreds of years and included important owners and investors from England and other parts of Europe.
 
----
+
 # The Wine Service Ritual in Restaurants
 
 This lesson covers the ritual of wine service step-bystep and the background of each step, from ordering the wine, to opening the bottle, to the taste the sommelier pours for your consideration. The lesson also discusses when it’s appropriate to reject a bottle and whe  it’s not.
@@ -289,7 +288,7 @@ This lesson covers the ritual of wine service step-bystep and the background of 
 4. Another type of problem involves the temperature of the wine. White wines should be served cold, and most restaurants have a refrigerator for those. However, sometimes there are no bottles of the white wine you ordered in the fridge. Taste it, and if it is too warm, ask the staff to put it in an ice bucket for a few minutes. A similar problem can happen with red wines. You may have heard that red wines should be served at room temperature, but that rule came from people In England who lived in stone houses. Room temperature there was about 60 degrees. When the restaurant serves you red wine that is 78 degrees, just like their dining room, it is way too warm. Again, the solution is to ask them for an ice bucket.
 - The question remains: How much should you pour? Most wine glasses have a tulip shape that helps you figure this out. You should always pour just enough wine to fill the glass to the fattest part of the bowl, about a third of the way up the bowl. Less is better than more. For other glasses, a third of the glass is still a good rule.
 
----
+
 # Having Fun with Wine
 
 By this point in the course, you should have a strong working knowledge of wine. This lesson is all about using that knowledge to have fun with wine.
@@ -324,7 +323,7 @@ By this point in the course, you should have a strong working knowledge of wine.
 - When it came to red wines, did you prefer the power and complexity of Cabernet or the seductive charms of Pinot Noir? Did you prefer full-bodied or medium-bodied wines? Did you prefer fruitier or more herbal wines? All of those descriptors will help you get the wine you want from a shop or a restaurant.
 - Keep in mind that the hardest question any sommelier has to answer is: “What’s the wine on your list that I am going to like the most?” The answer lies in you, not in the sommelier. What you like is the key.
 
----
+
 # TASTING EXERCISES
 
 This section of the book provides a few basic wine-tasting exercises for you to try. Keep in mind that people are very susceptible to influences as they taste wine. Everything from the color of the light to the music in the background can affect how a person perceives a wine. Even more importantly, wine labels, bottles, and glasses have an effect. That’s why any serious wine tasting begins with covering up all the bottles in either aluminum foil or paper bags. Use a sticky note or write a number with a felt-tip marker to identify the bottles. If you are tasting with other people, it should be a cardinal rule that no one is allowed to speak, make gestures, or react to any of the wines until you are all finished. Professional wine tastings are always held in silence.
